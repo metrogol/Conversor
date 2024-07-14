@@ -1,5 +1,5 @@
 <h1 align="center"> CONVERSOR DE MONEDAS </h1>
-<h1 align="center">![images](https://github.com/user-attachments/assets/1a3a3c06-a549-426a-a178-e376ff1612fc)</h1>
+![Logo del Proyecto](https://github.com/user-attachments/assets/1a3a3c06-a549-426a-a178-e376ff1612fc)
 
 <h2 aling="center">Descripccion Del Proyecto</h2>
 
